@@ -1,0 +1,35 @@
+.footer{ border-top:1px solid #cecece; padding-top:20px;}
+.w-450{width:550px;}
+
+#topcontrol{z-index:99999!important;}
+
+/*手机导航样式*/
+
+.foot-nav{line-height:28px; height:310px;}
+.foot-nav ul li{height:28px;}
+.foot-nav ul li a,.foot-right ul li a{color:#6c6c6c;}
+.foot-right ul li{line-height:28px;}
+.f-r-1{padding:15px 0 20px 0;}
+@media (min-width: 1200px) {	
+.footer{width:1200px;}		
+}
+@media (min-width: 768px) and (max-width: 1199px){
+	
+}
+
+@media (max-width: 768px){
+.footer .row-fluid .span8 .foot-nav{height:280px;}
+.foot-nav .span3{float:left; margin-right:5px; padding-right:10px; border-right:1px solid #d9d9d9;}
+	
+	
+	
+	
+	
+	
+}
+@media (max-width: 910px){
+
+	
+	
+	
+}

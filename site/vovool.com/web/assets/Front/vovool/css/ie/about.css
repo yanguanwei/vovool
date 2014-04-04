@@ -1,0 +1,39 @@
+.about_jx{height: 140px;}
+.breadcrumb{ border:0; background:none; box-shadow:0px 0px 0px rgb(255, 255, 255) inset;}
+.about_center img,.Personnel_center img{max-width:100%;}
+/*left*/
+.about_top h2,.Personnel_top h2,.contact_top h2{line-height:64px; color:#b9b9b9; font-size:46px; font-family: Helvetica, Arial, sans-serif ;text-indent:14px; font-style:italic;}
+.about_center{ padding-bottom:50px;}
+.about_center p{text-indent:2em;font-size:18px;line-height:36px;}
+.Personnel_center h2{line-height:48px; font-size:28px;}
+.Personnel_center p{font-size:18px;line-height:36px;}
+.Personnel_p{ padding:20px 0 30px 0;}
+.map{padding:15px 0;}
+.map img{max-width:100%;}
+.contact_cen p{font-size:18px;line-height:30px;}
+
+
+
+/*right*/
+.photo_top{height:64px;}
+.photo_top h2{line-height:64px; color:#fff; font-size:46px; font-family: Helvetica, Arial, sans-serif ;background:#f26432; text-indent:14px; font-style:italic;}
+.photo_cen img{max-width:100%; margin-top:5px;}
+
+@media (min-width: 1200px) {
+	
+	
+}
+@media (min-width: 768px) and (max-width: 1199px){
+
+	
+}
+
+@media (max-width: 768px){
+
+	
+	
+}
+@media (max-width: 910px){
+	
+	
+}

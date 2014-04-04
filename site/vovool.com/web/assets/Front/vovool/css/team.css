@@ -1,0 +1,44 @@
+
+.w-450{width:550px;}
+
+
+
+
+
+
+.team_jx{height: 100px;}
+.breadcrumb{ border:0; background:none; box-shadow:0px 0px 0px rgb(255, 255, 255) inset;}
+.about_center img,.Personnel_center img{max-width:100%;}
+/*left*/
+.team_top h2{line-height:64px; color:#b9b9b9; font-size:46px; font-family: Helvetica, Arial, sans-serif ;text-indent:14px; font-style:italic;}
+.team_center{ max-width:500px; padding:30px 0; margin-left:2%;}
+.team_center p{font-size:16px; line-height:24px;}
+.team_center img{max-width:100%;}
+
+
+
+/*right*/
+.photo_top{height:64px;}
+.photo_top h2{line-height:64px; color:#fff; font-size:46px; font-family: Helvetica, Arial, sans-serif ;background:#f26432; text-indent:14px; font-style:italic;}
+.photo_cen img{max-width:100%; margin-top:5px;}
+
+
+@media (min-width: 1200px) {
+	
+	
+	
+	
+}
+@media (max-width: 1199px){
+.the-team{display:none;}
+	
+}
+
+@media (max-width: 768px){
+.team_jx{ display:none;}	
+}
+@media (max-width: 910px){
+	
+	
+}
+

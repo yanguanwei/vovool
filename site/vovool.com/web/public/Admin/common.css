@@ -1,0 +1,5 @@
+.ace-thumbnails > li.active { border-color: #ff0000;}
+.batch-cell { width: 80px;}
+.form-tab-content .form-group {margin-left: 0; margin-right: 0;}
+
+.message-item .time { width: auto;}

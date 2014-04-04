@@ -1,0 +1,51 @@
+
+.w-450{width:550px;}
+
+
+
+
+
+
+.news_jx{height: 100px;}
+.breadcrumb{ border:0; background:none; box-shadow:0px 0px 0px rgb(255, 255, 255) inset;}
+.about_center img,.Personnel_center img{max-width:100%;}
+.case_top h2{line-height:64px; color:#b9b9b9; font-size:46px; font-family: Helvetica, Arial, sans-serif ;text-indent:14px; font-style:italic;}
+
+.news_l img{max-width: 100%; padding-bottom: 3%;}
+.news_t{ height:90px; }
+.news_a{text-align: right; color: #f90;}
+.bor_b_c{border-bottom:1px solid #d8d8d8;}
+.news_view{margin:0 1.5%; line-height:24px; font-size:14px;}
+.news_view P{ text-indent:2em;}
+
+.news_view_foot{text-align:center; margin:40px auto;}
+.news_view_foot h2{color:#dedede;}
+.pager{width:280px; margin:30px auto 45px auto; }
+
+.w_1200 .pagination{text-align:center; padding: 30px 0;}
+
+@media (min-width: 1200px) {
+	.news_li{float: left; width: 22%; margin: 1%;}
+	
+	
+	
+}
+@media (min-width: 768px) and (max-width: 1199px){
+.the-team{display:none;}
+.news_li{float: left; width: 26%; margin: 3%;}
+	
+}
+
+@media (max-width: 768px){
+.news_li{float: left; width: 45%; margin: 1%;}
+.news_r{max-width: 130px; }
+.news_t{ height: auto; }
+.news_a{text-align: left ;}
+	
+.news_jx{ display:none;}
+}
+@media (max-width: 910px){
+	
+	
+}
+

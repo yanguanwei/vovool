@@ -1,0 +1,44 @@
+
+.w-450{width:550px;}
+
+
+
+
+
+.input-xxxlarge {
+  width:70%;
+}
+.tijiao{display:block; width:220px; height:48px; line-height:48px; color:#fff; text-align:center; font-size:18px; background:#3395d7;}
+.biaodan{padding-bottom:35px;}
+table label,table input,table button,table select,table textarea{line-height:28px!important; font-size:14px!important;}
+.team_jx{height: 100px;}
+.breadcrumb{ border:0; background:none; box-shadow:0px 0px 0px rgb(255, 255, 255) inset;}
+.about_center img,.Personnel_center img{max-width:100%;}
+/*left*/
+.scheme_top h2{line-height:64px; color:#b9b9b9; font-size:46px; font-family: Helvetica, Arial, sans-serif ;text-indent:14px; font-style:italic;}
+.page-header{color:#b9b9b9;}
+
+
+
+@media (min-width: 1200px) {
+	.warp{width: 1200px;margin: 0 auto;padding:35px 0 40px;}
+	
+	
+	
+}
+@media (min-width: 768px) and (max-width: 1199px){
+	.warp{width:1000px!important;margin: 0 auto;padding:35px 0 40px;}
+}
+
+@media (max-width: 768px){
+.team_jx{ display:none;}
+
+	
+	
+	
+}
+@media (max-width: 910px){
+	
+	
+}
+
